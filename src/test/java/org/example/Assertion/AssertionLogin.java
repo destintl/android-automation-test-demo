@@ -2,8 +2,8 @@ package org.example.Assertion;
 
 import org.example.MobileUtil;
 
-public class AssetionLogin {
-    public void assetLoginPage() {
+public class AssertionLogin {
+    public void assertLoginPage() {
         MobileUtil.verifyElementVisible("//*[contains(@resource-id, 'textInputEditTextEmail')]");
         MobileUtil.verifyElementVisible("//*[contains(@resource-id, 'textInputEditTextPassword')]");
         MobileUtil.verifyElementVisible("//*[contains(@resource-id, 'appCompatButtonLogin')]");
@@ -11,6 +11,7 @@ public class AssetionLogin {
     }
 
     public void assertInvalidEmailOrPassword(){
+        //Error messages based on the messages that appear
         MobileUtil.verifyElementVisible("//*[contains(@class, 'android.widget.TextView') and @text='Enter Valid Email']");
     }
 
