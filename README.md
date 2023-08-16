@@ -1,8 +1,12 @@
 # Login Demo
 
-https://github.com/destintl/android-automation-test-demo/assets/133567369/f7db8af5-1ade-45b8-87a8-59f5dcc38f95
+
+https://github.com/destintl/android-automation-test-demo/assets/133567369/468620c1-95d6-4ddc-be45-321ba033be65
+
 
 # Register Demo
 
-https://github.com/destintl/android-automation-test-demo/assets/133567369/4ee1d379-92aa-4de4-b363-f0fadfb5dde3
+
+
+https://github.com/destintl/android-automation-test-demo/assets/133567369/05accf2d-6334-4d19-aacf-7e0a0acfbe1b
 
